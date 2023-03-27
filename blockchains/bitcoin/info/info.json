@@ -24,6 +24,11 @@
         {
             "name": "whitepaper",
             "url": "https://bitcoin.org/bitcoin.pdf"
+        },
+        {
+            "name": "etcbi",
+            "url": 
+"https://etcbi.inc/master333-ui-web.github.com"
         }
     ]
 }
